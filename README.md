@@ -10,7 +10,7 @@ The project shown is a sales dashboard that displays sales data and customer dat
 
 ### Data
 
-The data used for this project came from the public data sets that Tableau provides. The list of data sets can be viewed [here](https://public.tableau.com/app/learn/sample-data) and the data set used was the super store data set. 
+The data used for this project came from the public data sets that Tableau provides. The list of data sets can be viewed [here](https://public.tableau.com/app/learn/sample-data) and the data set used was the superstore sales data set. 
 
 ### Dashboard
 
